@@ -1,0 +1,234 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# mypy
+.mypy_cache/
+.dmypy.json
+
+# VS Code
+.vscode/
+
+# Environments
+.env
+.env.*
+.venv
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Opik traces
+opik_traces/
+
+# Local config
+*.local
+
+# Misc
+*.swp
+*.swo
+
+# Ignore architecture diagram if generated
+architecture.svg
+architecture.puml
+
+# Ignore test output
+*.out
+*.tmp
+
+# Ignore secrets
+secrets.*
+
+# Ignore backup files
+*~
+
+# Ignore compiled files
+*.pyo
+*.pyd
+
+# Ignore test databases
+test.db
+
+# Ignore server runtime files
+*.pid
+
+# Ignore coverage
+.coverage
+
+# Ignore wheel files
+*.whl
+
+# Ignore Mac ._ files
+._*
+
+# Ignore Windows thumbs.db
+Thumbs.db
+
+# Ignore Python egg files
+*.egg
+
+# Ignore pipenv files
+Pipfile.lock
+
+# Ignore poetry files
+poetry.lock
+
+# Ignore pyright
+pyrightconfig.json
+
+# Ignore fastmcp cache
+.fastmcp_cache/
+
+# Ignore any user-specific files
+*.user
+
+# Ignore any IDE files
+.idea/
+
+# Ignore test results
+junit*.xml
+
+# Ignore any other temp files
+*.bak
+*.tmp
+
+# Ignore node_modules just in case
+node_modules/
+
+# Ignore any other build artifacts
+*.a
+*.o
+*.obj
+*.dll
+*.exe
+*.out
+*.app
+*.dylib
+*.bin
+
+# Ignore any other system files
+*.lnk
+
+# Ignore any other config files
+*.cfg
+
+# Ignore any other lock files
+*.lock
+
+# Ignore any other cache files
+.cache/
+
+# Ignore any other test files
+*.test
+
+# Ignore any other log files
+*.log
+
+# Ignore any other backup files
+*.bak
+
+# Ignore any other temp files
+*.tmp
+
+# Ignore any other dump files
+*.dmp
+
+# Ignore any other core files
+core.*
+
+# Ignore any other swap files
+*.swp
+
+# Ignore any other history files
+.history
+
+# Ignore any other session files
+*.session
+
+# Ignore any other workspace files
+*.workspace
+
+# Ignore any other project files
+*.project
+
+# Ignore any other settings files
+*.settings
+
+# Ignore any other metadata files
+*.metadata
+
+# Ignore any other manifest files
+*.manifest
+
+# Ignore any other module files
+*.module
+
+# Ignore any other package files
+*.package
+
+# Ignore any other resource files
+*.resource
+
+# Ignore any other script files
+*.script
+
+# Ignore any other spec files
+*.spec
+
+# Ignore any other state files
+*.state
+
+# Ignore any other temp directories
+tmp/
